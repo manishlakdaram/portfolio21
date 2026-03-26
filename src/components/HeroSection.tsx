@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
 import { useEffect, useState } from "react";
 import avatar from "@/assets/avatar.jpg";
 
-const roles = ["Cloud Enthusiast", "Full-Stack Developer", "Problem Solver", "AWS Builder"];
+const roles = ["Cloud Enthusiast", "Software Developer", "Problem Solver", "AWS Builder"];
 
 const HeroSection = () => {
   const [roleIndex, setRoleIndex] = useState(0);
@@ -55,7 +55,7 @@ const HeroSection = () => {
           </div>
 
           <p className="text-muted-foreground max-w-md mb-8 leading-relaxed">
-            Computer Science student passionate about cloud computing, full-stack development,
+            Computer Science student passionate about cloud computing, software development,
             and building scalable serverless systems on AWS.
           </p>
 

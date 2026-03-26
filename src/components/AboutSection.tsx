@@ -36,7 +36,7 @@ const AboutSection = () => (
           <h3 className="text-2xl font-bold text-foreground mb-4">My Journey</h3>
           <p className="text-muted-foreground leading-relaxed mb-4">
             Hello! I'm Manish Lakdaram, a Computer Science and Engineering student at Lovely Professional University
-            with a focus on cloud computing, DevOps, and full-stack development.
+            with a focus on cloud computing, DevOps, and software development.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             I've built scalable serverless platforms on AWS, deployed auto-scaling web applications with load balancing,
