@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
 import { useEffect, useState } from "react";
 import avatar from "@/assets/avatar.jpg";
 
-const roles = ["Cloud Enthusiast", "Full-Stack Developer", "Problem Solver", "AWS Builder"];
+const roles = ["Cloud Enthusiast", "Software Developer", "Problem Solver", "AWS Builder"];
 
 const HeroSection = () => {
   const [roleIndex, setRoleIndex] = useState(0);
