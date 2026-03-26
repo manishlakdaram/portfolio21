@@ -55,7 +55,7 @@ const HeroSection = () => {
           </div>
 
           <p className="text-muted-foreground max-w-md mb-8 leading-relaxed">
-            Computer Science student passionate about cloud computing, full-stack development,
+            Computer Science student passionate about cloud computing, software development,
             and building scalable serverless systems on AWS.
           </p>
 
