@@ -47,9 +47,8 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="user-uploads://mock.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/Manish_Lakdaram_CV.pdf"
+            download="Manish_Lakdaram_CV.pdf"
             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-semibold hover:opacity-90 transition"
           >
             <Download size={14} />
