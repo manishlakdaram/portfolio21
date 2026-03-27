@@ -22,7 +22,7 @@ const ContactSection = () => (
           {[
             { icon: Mail, label: "Email", value: "manishlakdaram1002@gmail.com", href: "mailto:manishlakdaram1002@gmail.com" },
             { icon: Phone, label: "Phone", value: "+91-9390826083", href: "tel:+919390826083" },
-            { icon: Linkedin, label: "LinkedIn", value: "ManishLakdaram", href: "https://linkedin.com/in/ManishLakdaram" },
+            { icon: Linkedin, label: "LinkedIn", value: "manish-lakdaram", href: "https://www.linkedin.com/in/manish-lakdaram/" },
             { icon: Github, label: "GitHub", value: "ManishLakdaram", href: "https://github.com/ManishLakdaram" },
           ].map(({ icon: Icon, label, value, href }) => (
             <a
