@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
 import { useEffect, useState } from "react";
 import avatar from "@/assets/avatar.jpg";
+import ParticleNetwork from "./ParticleNetwork";
 
 const roles = ["Cloud Enthusiast", "Software Developer", "Problem Solver", "AWS Builder"];
 
